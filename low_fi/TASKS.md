@@ -1,0 +1,4 @@
+- [ ] go live on yt whenever we can to keep developing the game (both on windows and linux idc im at cafe or not)
+- [ ] keep solving the A-C problem in CF
+- [ ] do at least 1 ielts test daily
+- [ ] exe
