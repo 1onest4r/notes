@@ -1,0 +1,3 @@
+- [ ] get to know the engine
+- [ ] research about quirk
+- [ ] try making the current design to reach 700m

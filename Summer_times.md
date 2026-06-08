@@ -14,7 +14,7 @@ learn c++ class, memory management, some rule set when coding like NASA stuff
 work on opengl each day possibly a tiny bit is enough 1h worth of work
 	finishing template by next sem is the goal, so loading models
 	animating and such
-[[TASKS]]
+[[weekly task]]
 
 
 
