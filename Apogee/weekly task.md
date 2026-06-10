@@ -1,3 +1,11 @@
-- [ ] get to know the engine
+- [x] get to know the engine
 - [ ] research about quirk
-- [ ] try making the current design to reach 700m
+	 - [[restrictions]]
+	 - always try to put it close to the front and keep it above 1.5 cal
+- [x] try making the current design to reach 700m
+	- aerodynamically inefficient? Yes
+	- too heavy? No? maybe 
+	- [x] ask about the engine weight and fuel weight 
+- [ ] modify the rocket so its shorter than 1m
+- [x] modify the main body to fit the diameter to be 8.4cm
+- [x] 1:10 diameter and body tube length ratio
