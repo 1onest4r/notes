@@ -149,22 +149,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "34864fbd97db6839",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae1925cb581c004b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -326,12 +310,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae1925cb581c004b",
+  "active": "ac0e9002ba69b964",
   "lastOpenFiles": [
+    "Apogee/Parachute.md",
     "Apogee/weekly task.md",
     "low_fi/TASKS.md",
     "Apogee/l1 certificate requirements.md",
-    "Apogee/Parachute.md",
     "Apogee/General layout of rocket.md",
     "Apogee/Body tube.md",
     "Apogee/Engine.md",
