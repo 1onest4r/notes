@@ -1,0 +1,11 @@
+successful sport athlete earns more money and fame than other profession
+some people think is fair some not
+discuss both idea and give my own opinion
+
+Well trained athlete is a critical thinker, adapts to their situation fast, has much higher endurance, no problem concentrating and their body is a temple since it's one of the reasons they perform so well in their correlating field. The point is anyone can be an athlete if trained hard enough and prepared for one singular goal, to be good at one area.
+
+Sports athletes are different story than other professionals such as architect, engineer, cook etc. their purpose is be to be seen, heard, felt through the scheme that was designed eons ago and perfected over the years to maximize the joy that is felt by us viewers so i think it's logical that they usually get paid more than other professions and has ridiculous amount of fame depending on their lifetime of performance for example Micheal Jackson, he was a pop-star the king on the stage he trained his whole life for it and got what he deserved all the wealth and recognition no one ever could reach.
+
+Let's take a step back and look at the critical roles compared to the sports professionals who gets to have the upper hand in objective matter, a doctor also trains their mind and body for their whole life in hopes of saving just one more soul in day and day out pushing their limits beyond what a normal person could imagine but they get paid just a little above minimum wage if not they have expertise in niche fields like neuroscience, heart surgery and so on, and when i think about roles like that it seems to be very unfair for those who don't get much recognition and holds this world out of their kindness and gratitude we must be thankful.
+
+In summary, yes i think it's fair that sports professionals get more to earn more money and fame but also the critical professions that holds this world together should also have equally good or better earning at least even if they are not appreciated enough they have a right to be treated good.
