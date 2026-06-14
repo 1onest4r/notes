@@ -9,4 +9,4 @@
 - [ ] modify the rocket so its shorter than 1m
 - [x] modify the main body to fit the diameter to be 8.4cm
 - [x] 1:10 diameter and body tube length ratio
-- [ ] apply changes to the app and notify Jonathan teacher
+- [x] apply changes to the app and notify Jonathan teacher

@@ -4,151 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fe3b022e06ea85fb",
+        "id": "a031ac71fc0c8a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "b31d7b24add9f4e9",
+            "id": "a489cb30b4b51db8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apogee/General layout of rocket.md",
+                "file": "learning/tasks_14_6_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General layout of rocket"
+              "title": "tasks_14_6_2026"
             }
           },
           {
-            "id": "64d3aa89a5bc1c41",
+            "id": "ac003fc1c4bbaa4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apogee/General layout of rocket.md",
+                "file": "learning/UBO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General layout of rocket"
-            }
-          },
-          {
-            "id": "5657feebe6a95794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/General layout of rocket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General layout of rocket"
-            }
-          },
-          {
-            "id": "41abc0d5b09100e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/General layout of rocket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General layout of rocket"
-            }
-          },
-          {
-            "id": "5bb95b23fca5f98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/l1 certificate requirements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "l1 certificate requirements"
-            }
-          },
-          {
-            "id": "ac0e9002ba69b964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/weekly task.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "weekly task"
-            }
-          },
-          {
-            "id": "040a9e39ff5c9c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/l1 certificate requirements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "l1 certificate requirements"
-            }
-          },
-          {
-            "id": "3b12671b14f12efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/l1 certificate requirements.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "l1 certificate requirements"
-            }
-          },
-          {
-            "id": "364d1027e92e4bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/General layout of rocket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General layout of rocket"
-            }
-          },
-          {
-            "id": "f675a1d72fb70196",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apogee/General layout of rocket.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General layout of rocket"
+              "title": "UBO"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,38 +198,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "ac0e9002ba69b964",
+  "active": "ac003fc1c4bbaa4a",
   "lastOpenFiles": [
-    "task1.md",
-    "task 2.md",
+    "learning/tasks_14_6_2026.md",
+    "learning/UBO.md",
+    "what Mogi likes.md",
+    "POWER_OF_1010.md",
+    "App idea.md",
+    "Tasks_general.md",
+    "Apogee/General layout of rocket.md",
+    "coding_quirks/C++.md",
+    "Apogee/l1 certificate requirements.md",
+    "learning/Static.md",
+    "Apogee/weekly task.md",
+    "coding_quirks/String.md",
+    "coding_quirks/Char.md",
+    "learning/Pointer.md",
+    "learning/Static in class.md",
+    "learning/Reference.md",
+    "learning",
+    "Summer_times.md",
+    "coding_quirks",
+    "Godot_shortcuts.md",
     "Apogee/restrictions.md",
     "Apogee/Pasted image 20260607133331.png",
-    "Apogee/Parachute.md",
-    "Apogee/weekly task.md",
-    "low_fi/TASKS.md",
-    "Apogee/l1 certificate requirements.md",
-    "Apogee/General layout of rocket.md",
     "Apogee/Body tube.md",
+    "task1.md",
+    "task 2.md",
+    "low_fi/TASKS.md",
+    "Apogee/Parachute.md",
     "Apogee/Engine.md",
     "Apogee/Current spec.md",
-    "Apogee/Definition Of Active Recovery.md",
-    "Apogee/Nose Cone.md",
     "Pasted image 20260607133331.png",
     "Apogee",
-    "Godot_shortcuts.md",
-    "Summer_times.md",
-    "POWER_OF_1010.md",
     "low_fi",
-    "exam/ielts.md",
-    "exam/Listening.md",
-    "exam/Reading.md",
-    "exam/Writing.md",
-    "exam/Speaking.md",
     "exam",
-    "test.md",
     "New Rich Text Document.rtf",
     "New Text Document.txt",
-    "New folder",
-    "Welcome.md"
+    "New folder"
   ]
 }

@@ -1,0 +1,2 @@
+acts as an another for the variable and changing it would modify the original value directly 
+can't be null and must be initialized during declaration meaning it just acts as alias for the init variable
