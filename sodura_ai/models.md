@@ -1,0 +1,1 @@
+a model is a program that has been trained on certain type of data to accomplish certain tasks or in field so different models can be used for different tasks they have been programmed for

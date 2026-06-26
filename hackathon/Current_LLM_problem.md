@@ -1,0 +1,4 @@
+- presenting false information when no answer is found
+- creating out of date info when the user expects specific thing
+- creating answer from unreliable source
+- creating inaccurate statements due to different languages use same statement for different analogy

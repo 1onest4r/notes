@@ -1,12 +1,19 @@
 - [x] get to know the engine
-- [ ] research about quirk
+- [x] research about quirk
 	 - [[restrictions]]
 	 - always try to put it close to the front and keep it above 1.5 cal
 - [x] try making the current design to reach 700m
 	- aerodynamically inefficient? Yes
 	- too heavy? No? maybe 
 	- [x] ask about the engine weight and fuel weight 
-- [ ] modify the rocket so its shorter than 1m
+//- [ ] modify the rocket so its shorter than 1m
 - [x] modify the main body to fit the diameter to be 8.4cm
 - [x] 1:10 diameter and body tube length ratio
 - [x] apply changes to the app and notify Jonathan teacher
+- [ ] implement the gps
+	- 2 bare lora chip (30k each)
+	- 2 esp32 (20k each)
+	- battery (33k)
+	- gps chip (80k)
+	- sum 213k
+	- [[item]]

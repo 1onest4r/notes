@@ -13,12 +13,138 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/tasks_14_6_2026.md",
+                "file": "hackathon/What_is_LLM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks_14_6_2026"
+              "title": "What_is_LLM"
+            }
+          },
+          {
+            "id": "f2c0e162dc0957ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackathon/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "8822dc9f6c8597d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackathon/Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "91ca78f649d1a2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POWER_OF_1010.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POWER_OF_1010"
+            }
+          },
+          {
+            "id": "10e8cebeeb7212a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackathon/What_is_LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What_is_LLM"
+            }
+          },
+          {
+            "id": "9c81ee9541d579c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "80b21e503b5ed42b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/what is AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is AI"
+            }
+          },
+          {
+            "id": "c394039b086cd470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/what is AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is AI"
+            }
+          },
+          {
+            "id": "9d4d946223718e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/what is AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is AI"
+            }
+          },
+          {
+            "id": "8554400bea5a11bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/what is AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is AI"
             }
           },
           {
@@ -27,12 +153,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apogee/restrictions.md",
+                "file": "sodura_ai/Generative AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "restrictions"
+              "title": "Generative AI"
+            }
+          },
+          {
+            "id": "2bd21d896bdd9611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/Training AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Training AI"
             }
           },
           {
@@ -41,16 +181,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shroomhen/Bucket list.md",
+                "file": "Apogee/weekly task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucket list"
+              "title": "weekly task"
+            }
+          },
+          {
+            "id": "14669aadaf02dcda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apogee/weekly task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weekly task"
+            }
+          },
+          {
+            "id": "be8ce58e67612c5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "App idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App idea"
+            }
+          },
+          {
+            "id": "d6ad0d540b5ca393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackathon/What_is_RAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What_is_RAG"
+            }
+          },
+          {
+            "id": "5d224b0b85dad0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackathon/What_is_RAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What_is_RAG"
+            }
+          },
+          {
+            "id": "3d5bcdd0c916cd68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackathon/What_is_LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What_is_LLM"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -107,7 +317,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ee97407dafc0b116",
@@ -212,43 +422,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "850fe0e207715148",
+  "active": "2bd21d896bdd9611",
   "lastOpenFiles": [
-    "shroomhen",
+    "sodura_ai/Training AI.md",
+    "sodura_ai/Generative AI.md",
+    "sodura_ai/models.md",
+    "sodura_ai/tasks.md",
+    "sodura_ai/what is AI.md",
+    "sodura_ai/what is ML.md",
+    "sodura_ai/what is DL.md",
     "Apogee/restrictions.md",
+    "App idea.md",
+    "hackathon/What_is_LLM.md",
+    "sodura_ai",
+    "hackathon/Tasks.md",
+    "hackathon/pitch_todo.md",
+    "hackathon/Current_LLM_problem.md",
+    "drone.md",
+    "POWER_OF_1010.md",
+    "hackathon/ideas.md",
+    "hackathon/What_is_RAG.md",
+    "learning/tasks_14_6_2026.md",
+    "Apogee/dimension looking from up.md",
+    "Apogee/item.md",
+    "hackathon",
+    "Apogee/weekly task.md",
+    "shroomhen/what Mogi likes.md",
     "shroomhen/Bucket list.md",
+    "coding_quirks/String.md",
+    "shroomhen",
     "Apogee/Parachute.md",
     "Apogee/Nose Cone.md",
-    "Apogee/l1 certificate requirements.md",
-    "Apogee/Definition Of Active Recovery.md",
-    "coding_quirks/String.md",
-    "coding_quirks/Char.md",
-    "coding_quirks/C++.md",
-    "learning/tasks_14_6_2026.md",
-    "learning/Static in class.md",
-    "learning/UBO.md",
-    "learning/Reference.md",
-    "learning/Pointer.md",
-    "low_fi/TASKS.md",
-    "shroomhen/what Mogi likes.md",
-    "POWER_OF_1010.md",
-    "App idea.md",
-    "Tasks_general.md",
-    "Apogee/General layout of rocket.md",
-    "learning/Static.md",
-    "Apogee/weekly task.md",
     "learning",
-    "Summer_times.md",
     "coding_quirks",
-    "Godot_shortcuts.md",
     "Apogee/Pasted image 20260607133331.png",
-    "Apogee/Body tube.md",
     "Pasted image 20260607133331.png",
     "Apogee",
     "low_fi",
     "exam",
     "New Rich Text Document.rtf",
-    "New Text Document.txt",
-    "New folder"
+    "New Text Document.txt"
   ]
 }
