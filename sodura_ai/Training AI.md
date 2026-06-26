@@ -1,0 +1,1 @@
+for use of Gen AI we would need deep learning AI models which has been trained to big data sets and most known foundational models today are [[LLM]]-s which specializes on text but there can be foundational models that focus in audio, image, video etc.
