@@ -17,3 +17,4 @@
 	- gps chip (80k)
 	- sum 213k
 	- [[item]]
+	- pig tail for battery 5k
