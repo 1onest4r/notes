@@ -4,15 +4,15 @@
 4. spray paint
 5. art day!
 6. 24/7 cafe?
-7. hand craft day!!! ()
+7. hand craft day!!! (ring craft)
 8. photograph day! (UB tour maybe)
 9. sticker 
 10. memorial video
-11. make up (the man)
+11. make up (the man) (did it)
 12. playground
 13. album
 14. card/boardgame
-15. cooking day
+15. cooking day (did it)
 16. gaming
-17. hiking
+17. hiking (did it)
 18. anything dumb lezduit
