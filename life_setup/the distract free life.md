@@ -1,0 +1,9 @@
+- make harder to use the thing you don't want to do (binge watching, gaming for long hours)
+- make easier to use/do the thing you actually want to do
+	- climbing, training, learning new skills, 
+- still have someway to enjoy your free time but with limits!!! don't go overboard you know what happens
+- try to reason things truly (just like before but now i want it casually not intended always)
+- productivity routine (might be fun thing to do)
+- i don't really wish to waste time on doing stuffs don't really matter both mentally and physically so let's try doing [[image_recognition_system]]
+- [[project_ideas]]
+- [[todo]]

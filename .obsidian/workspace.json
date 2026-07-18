@@ -27,16 +27,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shroomhen/Bucket list.md",
+                "file": "sodura_ai/tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucket list"
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "f35a9093baf1c854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "b2e5d14e499e5825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "5b2f9062cc1f36ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "5effc85bd9bde2b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life_setup/the distract free life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the distract free life"
+            }
+          },
+          {
+            "id": "0639b418f12d4187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life_setup/the distract free life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the distract free life"
+            }
+          },
+          {
+            "id": "99be9f7153a979a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life_setup/the distract free life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the distract free life"
+            }
+          },
+          {
+            "id": "9f1c8cc2439d8477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "life_setup/todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "d5da92fde5a030c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sodura_ai/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -198,37 +310,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "b61b2e2fb178889b",
+  "active": "d5da92fde5a030c0",
   "lastOpenFiles": [
-    "shroomhen/what Mogi likes.md",
-    "shroomhen/Bucket list.md",
-    "shroomhen/task2.md",
-    "shroomhen/task1.md",
-    "Untitled",
-    "POWER_OF_1010.md",
-    "sodura_ai/tasks.md",
-    "sodura_ai/models.md",
+    "life_setup/todo.md",
+    "life_setup/the distract free life.md",
+    "life_setup/project_ideas.md",
+    "low_fi/TASKS.md",
     "Master's/Requirements.md",
-    "Master's",
-    "hackathon/What_is_LLM.md",
-    "hackathon/What_is_RAG.md",
-    "App idea.md",
+    "sodura_ai/tasks.md",
+    "life_setup/image_recognition_system.md",
+    "life_setup",
     "Apogee/weekly task.md",
-    "sodura_ai/Generative AI.md",
-    "sodura_ai/Training AI.md",
-    "sodura_ai/what is AI.md",
-    "hackathon/Tasks.md",
-    "Apogee/item.md",
+    "Pasted image 20260717141153.png",
+    "sodura_ai/poster_typescript.md",
+    "sodura_ai/fee of subscription.md",
+    "sodura_ai/basic_set_up.md",
+    "1onest4r-sodura-landing.vercel.app.md",
+    "Pasted image 20260707122846.png",
+    "sodura_ai/problems_with_ai.md",
+    "Pasted image 20260706115415.png",
+    "sodura_ai/useful_sources.md",
     "sodura_ai/Generation, evaluation and returning.md",
+    "sodura_ai/TTS.md",
+    "sodura_ai/models.md",
     "sodura_ai/Tuning.md",
-    "drone.md",
-    "sodura_ai/LLM.md",
-    "sodura_ai/what is ML.md",
     "sodura_ai/what is DL.md",
-    "Apogee/restrictions.md",
+    "sodura_ai/what is ML.md",
+    "sodura_ai/Generative AI.md",
+    "sodura_ai/what is AI.md",
+    "sodura_ai/Training AI.md",
+    "sodura_ai/LLM.md",
+    "shroomhen/Bucket list.md",
+    "shroomhen/what Mogi likes.md",
+    "Master's",
     "sodura_ai",
-    "hackathon/pitch_todo.md",
-    "hackathon/Current_LLM_problem.md",
     "hackathon",
     "shroomhen",
     "learning",

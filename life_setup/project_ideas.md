@@ -1,0 +1,3 @@
+- would like to build a drone
+- and use esp32 for face recognition system
+- cool web for myself :]] (start of august lez duit)

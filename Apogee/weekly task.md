@@ -18,3 +18,5 @@
 	- sum 213k
 	- [[item]]
 	- pig tail for battery 5k
+- [ ] weight the parts
+	- gps about 6gram, esp32 15 grams, battery also 15grams, lora 5gram
