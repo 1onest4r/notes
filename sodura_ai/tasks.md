@@ -130,6 +130,7 @@
 - [ ] fast paced practice platform
 - [ ] bottleneck solution 
 - [ ] for each kid 30k
+- [ ] fix report top error
 
 - [x] extend the ui to the right
 - [x] move the account related stuff to the top right corner as icon
@@ -141,6 +142,7 @@
 - [x] fix sensitive path error (make sure to tell claude to not to mess with the paths!!!)
 - [ ] artificial analysis
 - [ ] fix dashboard UI/UX (IMPROVE PLZ)
+- [ ] let the examiner continue asking without wait and only display the speech after its done getting processed 
 
 - [ ] option to continue or restart the test
 - [ ] have an option for ending the record early and starting early in the prep phase for section 2
