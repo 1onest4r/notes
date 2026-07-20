@@ -66,7 +66,7 @@
 - [x] platform ai to use (for scraper)
 - [x] also use the free api endpoints
 - [ ] get feed back 
-- [ ] facebook post (marketing concern)
+- [x] facebook post (marketing concern)
 - [ ] reward based progress (3000 ~ 300) 
 - [x] consistent experience (reliability) 
 - [ ] benchmarking 
@@ -100,13 +100,13 @@
 - [ ] exclude whats found and search for other sources (scraper)
 
 - [ ] design overhaul in speaking
-- [ ] slow process
-- [ ] ielts testing flow
-- [ ] make it functional 
-- [ ] apply small changes on the go
-- [ ] ielts.gg 
-- [ ] before 20th (make the flow smooth and add report)
-- [ ] speaking test text not showing
+- [x] slow process
+- [x] ielts testing flow
+- [x] make it functional 
+- [x] apply small changes on the go
+- [x] ielts.gg 
+- [x] before 20th (make the flow smooth and add report)
+- [x] speaking test text not showing
 
 - [ ] platform design overhaul
 
@@ -118,11 +118,11 @@
 - [ ] product ideas are welcome!
 
 
-- [ ] refreshing during test resets the overall timer at the top right corner
-- [ ] redesign the exam taking section
+- [x] refreshing during test resets the overall timer at the top right corner
+- [x] redesign the exam taking section
 - [ ] polish!
-- [ ] apply the tests given by "buya"
-- [ ] speech being slow
+- [x] apply the tests given by "buya"
+- [x] speech being slow
 	- is fine to process background
 			- evaluation while speaking
 	- save the audio (as whole)
@@ -136,9 +136,9 @@
 - [x] remove the right sidebar current selected item having extra thing on the left 
 - [ ] in review of test fix the ui
 - [ ] make the theme consistent in cards
-- [ ] let the button be looking 3d or just make it flat 
-- [ ] refresh mid speech processing is making it stuck (prolly loop)
-- [ ] fix sensitive path error (make sure to tell claude to not to mess with the paths!!!)
+- [x] let the button be looking 3d or just make it flat 
+- [x] refresh mid speech processing is making it stuck (prolly loop)
+- [x] fix sensitive path error (make sure to tell claude to not to mess with the paths!!!)
 - [ ] artificial analysis
 - [ ] fix dashboard UI/UX (IMPROVE PLZ)
 
@@ -156,5 +156,19 @@
 - [ ] learn about UI/UX design rules and template uses
 - [ ] learn linear
 
-- [ ] opus tuning 
+- [x] opus tuning 
 - [ ] always always always use good .md base
+
+## JUL/20/2026
+- [ ] improve /schools ppt 
+- [ ] send email and contact the companies
+- [ ] ==change the ui design with duolingo== 
+- [ ] ==blog improvement==
+- [ ] ==remove the offer section (and improve the landing page)==
+- [ ] speak logo improvement
+- [ ] each section partial test 
+- [ ] ==clean up the ui==
+- [ ] ==remove unwanted things==
+- [ ] get feedback from users
+
+- [ ] link referral test
