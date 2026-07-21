@@ -174,3 +174,8 @@
 - [ ] get feedback from users
 
 - [ ] link referral test
+
+## JUL/21/2026
+- [ ] create skill (ui/ux)
+- [ ] improve ui
+- [ ] change the scraper get b2b
