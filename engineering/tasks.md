@@ -1,0 +1,3 @@
+- [ ] Learn unreal 5.7
+- [ ] try making small game first 
+- [ ] meet up around AUG 10
