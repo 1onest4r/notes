@@ -1,3 +1,0 @@
-- [for statistics of AI model performances](https://artificialanalysis.ai/models)
-- [for TTS related stuff](https://huggingface.co/blog/PHBJT/french-parler-tts)
-- 

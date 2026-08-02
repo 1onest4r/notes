@@ -1,0 +1,9 @@
+Lora - ESP32D 
+Ground - ground 
+3.3V - 3.3V 
+RST - GPIO14 
+DIO0 - GPIO26 
+NSS - GPIO5 
+MOSI - GPIO23 
+MISO - GPIO19 
+SCK - GPIO18
