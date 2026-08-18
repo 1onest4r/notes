@@ -1,0 +1,15 @@
+- Raspberry Pi 3 Model B motherboard
+	- Broadcom Quad-Core 64-bit CPU (1.2GHz or 1.4GHz), 1GB RAM, Built-in Wi-Fi & Bluetooth, 4x USB 2.0 ports, 40-pin GPIO.
+	- The project relies on the Pi 3’s specific power draw and form factor,  Pi 4 will draw too much power and generate too much heat for a cardboard enclosure without extra cooling.
+- rduino Micro (5V, 16MHz)
+	- Must have the **ATmega32U4** microcontroller chip, 5V operating voltage, Micro-USB port
+	- [link](https://item.taobao.com/item.htm?abbucket=3&id=722484190550&mi_id=0000J6uL0oN_Dc81LP92k50_fhpQj0Q8ITdoJbMPWlaZcU8&ns=1&priceTId=2100c91217869406738525661e0a2c&skuId=6262505538011&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22050494379bd71cf043fd2fc67af7b90f%22%7D&xxc=taobaoSearch)
+-  7-Inch HDMI LCD Display for Raspberry Pi
+	- 7" TFT LCD, HDMI video interface, USB-powered (5V), bare PCB back (no bulky plastic enclosure so it fits in your custom laptop frame). Resolution is usually 800x480 or 1024x600.
+	- [link](https://item.taobao.com/item.htm?abbucket=3&id=902549808607&mi_id=0000R80Oyh5GOPNl4l8hgLIT6TZoGCG1HOZZHFuhlXk0BT4&ns=1&priceTId=2100c91217869408171028818e0a2c&spm=a21n57.1.hoverItem.4&utparam=%7B%22aplus_abtest%22%3A%22fb71e5df739ada754c2a09fc4012efe6%22%7D&xxc=taobaoSearch)
+- 3x 18650 Li-ion Batteries
+	- Batteries: 3.7V, unprotected "flat-top" 18650 cells (approx 2200mAh-3000mAh each). Flat-tops are required to fit into the battery shield
+	- [link](https://item.taobao.com/item.htm?abbucket=3&id=674307692488&mi_id=0000KNHpxebZet1_z18XGirqrQNajmsxbdO1k2x3BiIFGv8&ns=1&priceTId=2100c8d717869414461206807e0a27&skuId=5024862878891&spm=a21n57.1.hoverItem.10&utparam=%7B%22aplus_abtest%22%3A%2241f7eb1b974fda34490387ee4d45365c%22%7D&xxc=taobaoSearch)
+- 3-Slot 18650 Battery Power Bank Shield / Expansion Board
+	- Shield: Needs a 5V/2A (or 2.5A) USB output. The board should have 3 built-in battery slots and output 5V to run the Pi without triggering a "low voltage" warning
+	- 

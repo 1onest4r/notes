@@ -1,3 +1,4 @@
 - quit yt binge watching
 - start researching for the [projects](project_ideas)
 - start earning more money/experience over a consistent time frame
+- [[embedded_programming]]

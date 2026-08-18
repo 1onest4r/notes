@@ -1,3 +1,6 @@
 - [ ] research about portable laptop like devices that can be made
 	- [[sources]]
 - [ ] something like this could work [here](https://www.instructables.com/Raspberry-Pi-and-Arduino-Laptop)
+- [ ] meet at monday august 17
+- [ ] list the items with detail
+- [ ] learn solidworks

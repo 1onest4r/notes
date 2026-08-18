@@ -1,6 +1,7 @@
 https://mntre.com/media/reform_md/2020-01-18-finishing-reform.html
 
 https://www.instructables.com/Raspberry-Pi-and-Arduino-Laptop
+- [[prototype_items]]
 
 https://github.com/sbcshop/LapPi#lappi-5-variant
 
