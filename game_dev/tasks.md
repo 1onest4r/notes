@@ -36,8 +36,28 @@
 
 ### AUG/25/2026
 - [ ] category layers
-- [ ] do the separate menus and with all its components
+- [x] do the separate menus and with all its components
 - [ ] and work on sound design (if possible)
 
 ### AUG/29/2026
 - [ ] fix the initialization of main menu
+- [ ] hotkey widget
+- [ ] general settings widget [[inspiration]]
+	- language option
+	- camera shake
+	- invert y/x
+	- crosshair toggle
+	- tutorial toggle
+	- sensitivity
+	- volume
+- [ ] graphics widget
+	- for now lets just have normal medium ultra
+- [ ] restore default button for resetting everything
+
+
+### SEP/17/2026
+- [x] list the repetitive items that will be used in the game
+- [ ] find the items listed
+- [ ] test the items
+- [ ] and make decoration tool for easier setup
+- [ ] finish parking lot today
