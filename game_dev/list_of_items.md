@@ -1,7 +1,7 @@
 ### Must be able run smoothly at 60fps
 - and must have low poly 
 
-- [x] tree (got to be low poly at least 30 trees)
+- [ ] tree (got to be low poly at least 30 trees)
 - [x] bench (inside and outside the building) (iron, wood)
 - [ ] door (optional) (wood, iron)
 - [x] trash
@@ -32,5 +32,7 @@
 - [ ] directional arrows for guiding for floor 
 - [ ] kiosk 
 
+- [ ] try making vhs effect
 
 ### make it from scratch 
+and i did it

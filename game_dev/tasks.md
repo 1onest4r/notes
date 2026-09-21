@@ -61,3 +61,9 @@
 - [ ] test the items
 - [ ] and make decoration tool for easier setup
 - [ ] finish parking lot today
+- [ ] create a master material for floor and wall 
+	- must have tiling
+	- base layer
+	- grunge/stain layer 
+	- dynamic masking
+	- sliders for modification
