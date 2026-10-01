@@ -60,10 +60,14 @@
 - [ ] find the items listed
 - [ ] test the items
 - [ ] and make decoration tool for easier setup
-- [ ] finish parking lot today
-- [ ] create a master material for floor and wall 
+- [x] create a master material for floor and wall 
 	- must have tiling
 	- base layer
 	- grunge/stain layer 
 	- dynamic masking
 	- sliders for modification
+
+
+### SEP/24/2026
+- [ ] fix the outside look of the building via material
+- [ ] 
