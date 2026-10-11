@@ -1,4 +1,4 @@
-run a server and make it work same as the hamag works
+un a server and make it work same as the hamag works
 but the ui is for uploading/removing and viewing like gallery
 
 time by metadata? or upload time?
